@@ -12,4 +12,4 @@ Lembrando que caso não logue com o perfil de administrador, será possivel some
 ### O video completo esta me meu Linkedin
 
 deixarei o link da funcionalidade do sistema para que seja possivel um melhor entendimento do funcionamento do mesmo.
-<a href="[https://www.linkedin.com/in/guilherme-pompeu-mascarenhas-03770523a/](https://www.linkedin.com/posts/guilherme-pompeu-mascarenhas-03770523a_servlets-jsp-desenvolvimentoweb-activity-7163881822131478529-FoVa?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/guilherme-pompeu-mascarenhas-03770523a_servlets-jsp-desenvolvimentoweb-activity-7163881822131478529-FoVa?utm_source=share&utm_medium=member_desktop"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/posts/guilherme-pompeu-mascarenhas-03770523a_servlets-jsp-desenvolvimentoweb-activity-7163881822131478529-FoVa?utm_source=share&utm_medium=member_desktop"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
