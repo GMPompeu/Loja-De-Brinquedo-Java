@@ -6,3 +6,10 @@ Durante meu curso na faculdade, surgiu a oportunidade de desenvolver um projeto 
 
 O sistema consiste em uma utilização simples. Podendo deletar, cadastrar e editar um brinquedo e também um usuário que tera acesso de administrador no sitema.
 Lembrando que caso não logue com o perfil de administrador, será possivel somente a visualização dos brinquedos e membros da equipe.
+
+##
+
+### O video completo esta me meu Linkedin
+
+deixarei o link da funcionalidade do sistema para que seja possivel um melhor entendimento do funcionamento do mesmo.
+
